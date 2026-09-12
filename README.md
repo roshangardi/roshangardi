@@ -1,6 +1,6 @@
 # Roshan Gardi
 
-Hi, I'm Roshan, a software engineer working on safety and reliability for autonomous AI agents. I build guardrails for agents that run with real permissions, real data, and real budgets.
+Hi, I'm Roshan, a software engineer at AWS working on safety and reliability for autonomous AI agents. I build guardrails for agents that run with real permissions, real data, and real budgets.
 
 My day job is building permission governance and data protection into production AI agent platforms. It is the same engineering I spent years doing for cloud control planes: assume the component will misbehave, and bound what it can do, what it can access, and how much damage it can cause before you let it run.
 
